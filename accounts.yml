@@ -1,0 +1,8 @@
+accounts:
+ message: "Welcome to EazyBank accounts local REST APIs"
+ contactDetails:
+  name: "Anuj Rawat"
+  email: "anuj.rawat@eazybank.com"
+ onCallSupport:
+  - (+91) 9876543210
+  - (+91) 9876543211

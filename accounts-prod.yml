@@ -1,0 +1,8 @@
+accounts:
+ message: "Welcome to EazyBank accounts Prodcution REST APIs"
+ contactDetails:
+  name: "Sayantan Majumder"
+  email: "majumder.sayantan@eazybank.com"
+ onCallSupport:
+  - (+91) 9876543226
+  - (+91) 9876543227

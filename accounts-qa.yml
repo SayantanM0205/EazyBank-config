@@ -1,0 +1,8 @@
+accounts:
+ message: "Welcome to EazyBank accounts QA REST APIs"
+ contactDetails:
+  name: "Virat Pant"
+  email: "pant.virat@eazybank.com"
+ onCallSupport:
+  - (+91) 9876543218
+  - (+91) 9876543219
